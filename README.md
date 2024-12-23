@@ -6,7 +6,7 @@ This case differs from the PSION Organiser II (all family) Top Slot Case, in tha
 
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
-  <img src="https://github.com/nofitnessforpurpose/TopSlotCase/blob/main/images/2024-08-10%20-%20Top%20Slot%20Case%2001.png?raw=true" width="400px" alt="PSION Organiser II Top Slot Case. Image copyright (c) 10 August 2024 nofitnessforpurpose All Rights Reserved">
+  <img src="https://github.com/nofitnessforpurpose/TopSlotCase-2/blob/main/images/2024-12-03%20-%20Top%20Slot%20Case%202.png?raw=true" width="400px" alt="PSION Organiser II Top Slot Case. Image copyright (c) 10 August 2024 nofitnessforpurpose All Rights Reserved">
   </div>
 </div>
 <BR>
