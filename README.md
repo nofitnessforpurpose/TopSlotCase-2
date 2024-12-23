@@ -2,7 +2,7 @@
 PSION Organiser II - Top Slot Case - With Right Angle Header Support
 
 A 3D Model file of a PSION Organiser II (all family) Top Slot Case 2. The intention to allow design of modified cases and enable part clearance of electronics within the case to be more readily determined. 
-This case differs from the PSION Organiser II (all family) Top Slot Case, in that it includes support for the smaller headers (See Considerations).
+This case differs from the <a href="https://github.com/nofitnessforpurpose/TopSlotCase">PSION Organiser II (all family) Top Slot Case</a>, in that it includes support for the smaller headers (See Considerations).
 
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
