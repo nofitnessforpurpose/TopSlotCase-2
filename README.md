@@ -34,8 +34,10 @@ Alignment of the connector will require careful attention. For the smallest vari
 </div>
 <BR>
 Note the mating female connector pins pre-trimmed on the Top Slot Spy PCB so as to not protrude below the PCB in order to allow placement on a flat surface. The pins of typically available low cost headers are frequently just long enough to align with the bottom of the PCB receiving the header.  
-
+<BR>
 Once satisfactory alignment has been obtained the remaining connections can be soldered in place.  
+
+<BR>
 
 ## Considerations
 The model makes no accomodation for manufacturing tolerances, process or material - see Notes below. 
