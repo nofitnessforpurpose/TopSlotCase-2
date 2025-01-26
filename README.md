@@ -25,7 +25,17 @@ All the files are required for a complete case assembly. The default repository 
 <br>
 
 ## Connector Alignment
-Alignment of the connector will require careful attention. For the smallest variant typically available it is likely preferable to solder this component first to a PCB. The author created a jig using a <a target="_blank" rel="noopener noreferrer" href="https://github.com/nofitnessforpurpose/TopSlotSpy">Top Slot Spy</a> and its female connector only, which has had its pins trimmed so as to present a flat lower surface fromt the bottom of the PCB. The new male header is inserted into the female connector and the new PCB aligned. Guides to keep the PCB square formed from other PCB's may be of assistnce to keep the new PCB Square to the jig. By soldering only the two outer most connections alignment can be subsequently assessed. The PCB is then carefully inspected to verify the achieved alignment. 
+Alignment of the connector will require careful attention. For the smallest variant typically available it is likely preferable to solder this component first to a PCB. The author created a jig using a <a target="_blank" rel="noopener noreferrer" href="https://github.com/nofitnessforpurpose/TopSlotSpy">Top Slot Spy</a> and its female connector only, which has had its pins trimmed so as to present a flat lower surface from the bottom of the PCB. The new male header is inserted into the female connector and the new PCB aligned. Guides to keep the PCB square formed from other PCB's may be of assistance to keep the new PCB Square to the jig. By soldering only the two outer most connections, taking care not to overheat the assembly, alignment can be subsequently assessed. The PCB is then carefully inspected to verify the achieved alignment.  
+
+<div align="center">
+  <div style="display: flex; align-items: flex-start;">
+  <img src="https://github.com/nofitnessforpurpose/TopSlotCase-2/blob/main/images/2025-01-26%20-%20Connector%20Alignment.png?raw=true" width="400px" alt="PSION Organiser II Top Slot Case. Image copyright (c) 26 January 2025 nofitnessforpurpose All Rights Reserved">
+  </div>
+</div>
+<BR>
+Note the mating female connector pins pre-trimmed on the Top Slot Spy PCB so as to not protrude below the PCB in order to allow placement on a flat surface. The pins of typically available low cost headers are frequently just long enough to align with the bottom of the PCB receiving the header.
+
+Once satisfactory alignment has been obtained the remaining connections can be soldered in place.  
 
 ## Considerations
 The model makes no accomodation for manufacturing tolerances, process or material - see Notes below. 
