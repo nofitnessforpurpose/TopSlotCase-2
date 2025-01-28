@@ -29,7 +29,7 @@ Models might be viewed on line using the following links. Noting display of any 
  - Top - <a target="_blank" href="https://3dviewer.net/#model=https://github.com/nofitnessforpurpose/TopSlotCase-2/blob/main/2024-12-03%20-%20Top%202024%2010.stp">here</a>.  
  - Bottom - <a target="_blank" href="https://github.com/nofitnessforpurpose/TopSlotCase-2/blob/main/2024-12-03%20-%20Bottom%202024%2002.stp">here</a>.  
  - Rear Cover - <a target="_blank" href="https://3dviewer.net/#model=https://github.com/nofitnessforpurpose/TopSlotCase/blob/main/Rear%20Cover%2000.stp">here</a>.  
- - Assembly - <a target="_blank" href="https://3dviewer.net/#model=https://github.com/nofitnessforpurpose/TopSlotCase-2/blob/main/CAD/AsTS2024">here</a>.  
+ - Assembly - <a target="_blank" href="https://3dviewer.net/#model=https://github.com/nofitnessforpurpose/TopSlotCase-2/blob/main/CAD/AsTS2024.stp">here</a>.  
 <BR>
 <BR>
 
