@@ -24,6 +24,15 @@ All the files are required for a complete case assembly. The default repository 
 <br>
 <br>
 
+### On-Line Preview   
+Models might be viewed on line using the following links. Noting display of any mesh lines is a feature of the renderer and are not contained in the source STEP model. It is strongly recommended to use the source STEP file where ever possible, as any export process will introduce artifacts.  
+ - Top - <a target="_blank" href="https://3dviewer.net/#model=https://github.com/nofitnessforpurpose/TopSlotCase-2/blob/main/2024-12-03%20-%20Top%202024%2010.stp">here</a>.  
+ - Bottom - <a target="_blank" href="https://github.com/nofitnessforpurpose/TopSlotCase-2/blob/main/2024-12-03%20-%20Bottom%202024%2002.stp">here</a>.  
+ - Rear Cover - <a target="_blank" href="https://3dviewer.net/#model=https://github.com/nofitnessforpurpose/TopSlotCase/blob/main/Rear%20Cover%2000.stp">here</a>.  
+ - Assembly - <a target="_blank" href="https://3dviewer.net/#model=https://github.com/nofitnessforpurpose/TopSlotCase-2/blob/main/CAD/AsTS2024">here</a>.  
+<BR>
+<BR>
+
 ## Connector Alignment
 Alignment of the connector will require careful attention. For the smallest variant typically available it is likely preferable to solder this component first to a PCB. The author created a jig using a <a target="_blank" rel="noopener noreferrer" href="https://github.com/nofitnessforpurpose/TopSlotSpy">Top Slot Spy</a> and its female connector only, which has had its pins trimmed so as to present a flat lower surface from the bottom of the PCB. The new male header is inserted into the female connector and the new PCB aligned. Guides to keep the PCB square formed from other PCB's may be of assistance to keep the new PCB Square to the jig. Adhesive tape may assist to retain position of various elements. By soldering only the two outer most connections of the header as shown in yellow, taking care not to overheat the assembly, alignment can be subsequently assessed. The PCB is then carefully inspected to verify the achieved alignment.  
 
